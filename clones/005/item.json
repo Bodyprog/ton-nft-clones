@@ -1,0 +1,19 @@
+{
+  "name": "Scared Cat #9467",
+  "description": "An exclusive Scared Cat with the appearance Virus on a Desert Sand background with Blood Drop icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-9467.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Virus"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Desert Sand"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Blood Drop"
+    }
+  ]
+}
