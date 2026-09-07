@@ -1,0 +1,19 @@
+{
+  "name": "Scared Cat #12880",
+  "description": "An exclusive Scared Cat with the appearance Ruby on a Sapphire background with Evil Pumpkin icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-12880.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Evil Pumpkin"
+    }
+  ]
+}
