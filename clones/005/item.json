@@ -1,19 +1,19 @@
 {
-  "name": "Scared Cat #9467",
-  "description": "An exclusive Scared Cat with the appearance Virus on a Desert Sand background with Blood Drop icons.",
-  "image": "https://nft.fragment.com/gift/scaredcat-9467.webp",
+  "name": "Vintage Cigar #2367",
+  "description": "An exclusive Vintage Cigar with the appearance Red Devil on a Satin Gold background with Sun Lion icons.",
+  "image": "https://nft.fragment.com/gift/vintagecigar-2367.webp",
   "attributes": [
     {
       "trait_type": "Model",
-      "value": "Virus"
+      "value": "Red Devil"
     },
     {
       "trait_type": "Backdrop",
-      "value": "Desert Sand"
+      "value": "Satin Gold"
     },
     {
       "trait_type": "Symbol",
-      "value": "Blood Drop"
+      "value": "Sun Lion"
     }
   ]
 }
